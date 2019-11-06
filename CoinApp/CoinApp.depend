@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554237245 source:f:\document\projects\coinapp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
