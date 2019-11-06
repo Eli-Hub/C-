@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557263368 source:f:\document\projects\inventory\main.cpp
+	<iostream>
+	<cstdlib>
+	"INVENTORY.h"
+
+1557263228 source:f:\document\projects\inventory\inventory.cpp
+	<iostream>
+	<cstdlib>
+	"INVENTORY.h"
+
+1556149327 f:\document\projects\inventory\inventory.h
+	<iostream>
+	<cstdlib>
+
