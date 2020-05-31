@@ -4,7 +4,7 @@
 
 using namespace std;
 
-/*class INVENTORY
+class INVENTORY
 {
 private:
     int ItemNumber;
@@ -92,7 +92,7 @@ double INVENTORY::getTotalCost() const
     return totalCost;
 }
 
-*/
+
 
 
 
